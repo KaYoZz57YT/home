@@ -1,0 +1,19 @@
+{
+  "name": "mcpsearcher",
+  "version": "0.0.1",
+  "description": "A simple MCP/MCP Reborn downloader",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "KaYoZz",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
